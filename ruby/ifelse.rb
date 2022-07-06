@@ -20,6 +20,6 @@ end
 #Método 3 (em uma linha)
 if a > b then puts "a > b" else puts "b > a" end
 
-#Método 4
+#Método 4 (com unless)
 puts "a > b" if a > b
 puts "b > a" unless a > b
