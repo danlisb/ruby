@@ -1,4 +1,4 @@
-print lista = ['nome', :nome, 1, 2, 2.5, 4, 3]
+print lista = ['nome', :nome, 1, 2, 2.5, 3, 4]
 
 print lista_dois = %w[conversão de strings para array]
 
